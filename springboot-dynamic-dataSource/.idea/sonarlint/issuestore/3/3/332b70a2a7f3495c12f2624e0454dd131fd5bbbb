@@ -1,0 +1,5 @@
+
+Isquid:S1444"3Make this "public static dataSourceIds" field final(¥‹æ
+†"squid:ClassVariableVisibilityCheck"YMake dataSourceIds a static final constant or non-public and provide accessors if needed.(¥‹æ
+3squid:S2386"Make this member "protected".(¥‹æ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ë³ËÜùÿÿÿÿ
